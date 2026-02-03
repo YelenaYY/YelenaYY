@@ -63,8 +63,11 @@ Here are some ideas to get you started:
 </p>
 
 
-## 🔧 What I'm Working On
-✨ A hackathon project involving multimodal inputs and LLM agents
+<h2>
+  <img src="https://i.giphy.com/VgCDAzcKvsR6OM0uWg.webp" width="44" />
+  What I'm Working On
+</h2>
+✨ A hackathon project using multimodal inputs and LLM agents to assist pilots with streaming audio and interactive maps
 
 📚 Learning and integrating **MCP** into real applications
 
