@@ -73,8 +73,6 @@ Here are some ideas to get you started:
 
 😸 Stuck in *While True(): Learn*
 
-🐈 Accidentally getting addicted to playing *While True(): Learn*
-
 <p align="center">
   <img src="assets/while-true-learn-cat-1.png" width="45%"/>
   <img src="assets/while-true-learn-cat-2.png" width="45%"/>
