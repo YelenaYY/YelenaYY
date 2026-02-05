@@ -71,6 +71,8 @@ Here are some ideas to get you started:
 
 📚 Learning and integrating **MCP** into real applications
 
+😸 Stuck in *While True(): Learn*
+
 ---
 
 ## 🧾 The serious part (briefly)
