@@ -67,15 +67,13 @@ Here are some ideas to get you started:
   <img src="https://i.giphy.com/VgCDAzcKvsR6OM0uWg.webp" width="44" />
   What I'm Working On
 </h2>
-✨ A hackathon project using multimodal inputs and LLM agents to assist pilots with streaming audio and interactive maps
-
-📚 Learning and integrating **MCP** into real applications
-
-😸 Stuck in *While True(): Learn*
+✨ A hackathon project using multimodal inputs and LLM agents to assist pilots with streaming audio and interactive maps<br/><br/>
+📚 Learning and integrating **MCP** into real applications<br/><br/>
+😸 Stuck in playing *While True(): Learn*<br/>
 
 <p align="center">
-  <img src="assets/while-true-learn-cat-1.png" width="45%"/>
-  <img src="assets/while-true-learn-cat-2.png" width="45%"/>
+  <img src="assets/while-true-learn-cat-1.png" width="33%"/>
+  <img src="assets/while-true-learn-cat-2.png" width="33%"/>
   <br/>
   <em>No exit condition. Only curiosity.</em>
 </p>
